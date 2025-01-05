@@ -1,7 +1,7 @@
 Lab 02 - Plastic waste
 ================
 Julie Garrison
-Jan 4 2025
+Jan 5 2025
 
 ## Load packages and data
 
